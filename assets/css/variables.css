@@ -1,0 +1,19 @@
+:root{
+    --main-color: #023047;
+    --second-color:#f5e3cb;
+    --third-color:#f7f79d;
+    --font-title: 'Cinzel';
+    --font-text: 'Roboto';
+}
+
+
+@font-face {
+    font-family: 'Cinzel';
+    src: url("./../fonts/Cinzel_Decorative/CinzelDecorative-Regular.ttf");
+    font-variant: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url(../fonts/Roboto/Roboto-Regular.ttf);
+}
