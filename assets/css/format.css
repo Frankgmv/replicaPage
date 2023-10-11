@@ -11,6 +11,7 @@ html{
 a{
     text-decoration: none;
     color: var(--second-color);
+    cursor: pointer;
 }
 
 

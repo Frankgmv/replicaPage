@@ -1,0 +1,32 @@
+.banner-mini{
+    background-image: url(../img/mountain9.png);
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color:var(--second-color);
+    gap:20px;
+    text-shadow: 2px 2px 3px black;
+}
+
+.banner-title{
+    margin-top: 40px;
+    font-size: 40px;
+}
+
+.banner-description{
+    width: 50%;
+    font-size: 17px;
+    text-align: center;
+    backdrop-filter: blur(2px);
+    
+}
+
+.banner-button{
+    width: 220px;
+    margin: 20px 0 40px 0;
+}
