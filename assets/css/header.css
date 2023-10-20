@@ -168,7 +168,8 @@ b.line {
     height: 12px;
     font-size: 10px;
     font-weight: 20px;
-    accent-color: rgb(243, 227, 227);
+    /* background-color: #6453; */
+    accent-color: #f3e3e3;
     cursor:  grab;
 }
 

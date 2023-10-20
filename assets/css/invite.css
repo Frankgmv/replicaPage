@@ -1,5 +1,5 @@
 .invite {
-    margin-top: 160px;
+    margin: 50px 0;
     font-size: 15px;
     display: flex;
     justify-content: space-evenly;
@@ -7,7 +7,7 @@
 }
 
 .invite-called {
-    flex-basis: 30%;
+    flex-basis: 35%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -40,7 +40,7 @@
 
 
 .invite-p {
-    flex-basis: 30%;
+    flex-basis: 40%;
 }
 
 .invite-p p {
